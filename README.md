@@ -17,4 +17,6 @@ This is a simple website with a Picture in Picture functionality so the user can
 
 ### Live Version
 
+https://picture-in-picture-rust-nine.vercel.app/
+
 <img src="/assets/images/project-images/Picture in Picture.png" />
